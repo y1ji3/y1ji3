@@ -1,16 +1,18 @@
-## Hi there 👋
+## Information
+- **Name**: Iris Lin
+- **GitHub Username**: y1ji3
 
-<!--
-**y1ji3/y1ji3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Experience
+- **Programming Skills**: 
+- **Other Relevant Experience**:
 
-Here are some ideas to get you started:
+## Availability
+- **Weekly Availability**: 
+- **Preferred Meeting Times**: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- **Personal Interests**: 
+- **Project Preferences**: 
+
+## Fun Fact
+- **Something Interesting About You**: 
